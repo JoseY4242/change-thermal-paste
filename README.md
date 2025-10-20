@@ -30,7 +30,7 @@ STEP 3: Clean leftover thermal paste on the fan and CPU
 <img src="https://i.imgur.com/LHb6xP5.png"/>
 <img src="https://i.imgur.com/fHD4CCF.jpeg"/>
 <p>
-This is where you get your isopropyl and apply it on the microfiber cloth. After isopropyl is applied to the microfiber cloth, gently clean both the CPU and the Fan until there is no leftover old thermal paste. NOTE: You do not have to remove the CPU.
+This is where you get your isopropyl and apply it to the microfiber cloth. After isopropyl is applied to the microfiber cloth, gently clean both the CPU and the Fan until there is no leftover old thermal paste. NOTE: You do not have to remove the CPU.
 </p>
 <br />
 STEP 4: Apply new thermal paste
@@ -45,7 +45,7 @@ STEP 5: Screw in and reconnect the fan
 <img src="https://i.imgur.com/jhgcqtE.jpeg"/>
 </p>
 <p>
-After the new thermal paste is applied, gently press on the fan back on the CPU. The fan will sort of stick to the CPU cause of the thermal, this makes it easier to screw back on. Screw the 4 screws back on the fan and reconnect the fan to thee 4 pin fan header. 
+After the new thermal paste is applied, gently press on the fan back on the CPU. The fan will sort of stick to the CPU cause of the thermal, this makes it easier to screw back on. Screw the 4 screws back on the fan and reconnect the fan to the 4-pin fan header. 
 
 
 After all is screwed in and applied, turn your pc on and check the temperatures in BIOS. And that's all it is to change your thermal paste:). 
