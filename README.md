@@ -33,11 +33,11 @@ STEP 3: Clean leftover thermal paste on the fan and CPU
 This is where you get your isopropyl and apply it on the microfiber cloth. After isopropyl is applied to the microfiber cloth, gently clean both the CPU and the Fan until there is no leftover old thermal paste. NOTE: You do not have to remove the CPU.
 </p>
 <br />
-
+STEP 4: Apply new thermal paste
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Y4MoJbf.jpeg"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After the CPU and fan are clean, apply new thermal paste. Apply a pea-sized drop of thermal paste. Most AMD CPUs only require a pea-sized amount, but most Intel CPUs require you to draw an "X" on the CPU since it's longer. 
 </p>
 <br />
